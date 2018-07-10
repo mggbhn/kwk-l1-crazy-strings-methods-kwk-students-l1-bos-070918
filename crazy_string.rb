@@ -1,6 +1,6 @@
 # write your method here
 
-def crazy_strings(a.reverse,b)
+def crazy_strings(a,b)
   "#{a}" "#{b}"
 end
 
