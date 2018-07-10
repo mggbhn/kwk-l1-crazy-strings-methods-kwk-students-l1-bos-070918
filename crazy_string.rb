@@ -4,4 +4,4 @@ def crazy_strings(a,b)
   "#{a.reverse.upcase}" "#{b.swapcase.gsub("s","z")}"
 end
 
-puts crazy_strings("hello", "Friends")
+puts crazy_strings("hello", "friends")
